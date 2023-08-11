@@ -5,6 +5,7 @@ touch input.csv
 
 # declare an array of urls
 urls=(
+  https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 )
 
 # loop through the urls and download each file with curl
